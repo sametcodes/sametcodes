@@ -8,5 +8,5 @@ I’m a developer who loves JavaScript and open-source community; and working as
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sametcodes&layout=compact">
 <a href="https://github.com/sametcodes">
-  <img width="45%" align="left" alt="Samet's github stats" src="https://github-readme-stats.vercel.app/api?username=sametcodes&show_icons=true&hide_border=true" />
+  <img width="45%" align="left" alt="Samet's github stats" src="https://github-readme-stats.vercel.app/api?username=sametcodes&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
