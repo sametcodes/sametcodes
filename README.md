@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/selmansamet"><img src="https://api.daily.dev/devcards/7c46d769372b4cf9a375b21eb0f13c6e.png?r=7u9" width="400" alt="Samet's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/sametcodes"><img src="https://api.daily.dev/devcards/7c46d769372b4cf9a375b21eb0f13c6e.png?r=34r" width="400" align="right" alt="Samet's Dev Card"/></a>
 
 I’m a developer who loves JavaScript and open-source community; and working as a top-rated freelancer.
 
