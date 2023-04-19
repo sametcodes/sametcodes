@@ -10,6 +10,8 @@ I’m a developer who loves JavaScript and open-source community, and working as
 <a href="#"><img src="https://readme.rocks/api/view/643c42bd678ac96541ecd4dd" width="350" /></a>
 <a href="#"><img src="https://readme.rocks/api/view/6431b559ddde9c1558a16fe6" width="350" /></a>
 
+<a href="#"><img src="https://readme.rocks/api/view/6440669e4c5d605274994a4b" /></a>
+
 ## My latest articles
 <a href="https://dev.to/sametcodes">
    <img src="https://readme.rocks/api/view?queryConfig%5Busername%5D=sametcodes&queryConfig%5Bcount%5D=3&id=641c6e78c50c62ccdb646278" />
