@@ -7,7 +7,6 @@ I’m a developer who loves JavaScript and open-source community, and working as
 <a href="https://codewars.com/users/sametcodes"><img height="80" src="https://readme.rocks/api/view?queryConfig%5Busername%5D=sametcodes&id=641b2efa3e90e7e555cdacd7" /></a>
 
 <a href="#"><img height="150" src="https://readme.rocks/api/view/6431b559ddde9c1558a16fe6" /></a>
-<a href="#"><img height="150" src="https://readme.rocks/api/view/6440669e4c5d605274994a4b" /></a>
 
 ## My latest articles
 <a href="https://dev.to/sametcodes">
